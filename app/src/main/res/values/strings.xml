@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">weatherapp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="rationale_location_contacts">This app needs access to your location></string>
+    <string name="returned_from_app_settings_to_activity">yo</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="no_connection_map_hint">Map is not available in offline mode</string>
+    <string name="no_connection_add_city_hint">City adding is not available in offline mode</string>
+</resources>
